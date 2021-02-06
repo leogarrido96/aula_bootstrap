@@ -1,0 +1,59 @@
+
+.navbar {
+    background-color: lightgrey;
+    height: 100px;
+}
+
+.titulo {
+    color: indigo;
+    justify-content: center;
+    display: flex;
+    padding: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.containerQuemSomos {
+    padding: 2%;
+    background-color: lightgrey;
+}
+
+.descricao {
+    margin: 30%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.perfil {
+    display: flex;
+    margin-left: 35%;
+    margin-right: 35%;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+
+.containerServicos {
+    background-color: white;
+    padding: 3%;
+
+}
+
+.img {
+    margin-top: 2%;
+    padding-top: 2%;
+    width: 300px;
+    height: 300px;
+}
+
+.subtitulo {
+    margin: 2%;
+}
+
+.footer {
+    background-color: indigo;
+    color: white;
+    height: 15%;
+    padding: 1%;
+    margin-bottom: 0;
+}
